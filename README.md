@@ -41,9 +41,9 @@
 ## Cấu trúc thư mục
 
 ```
-KAGGLE_CROP_YIELD/
+BTL/
 ├── data/
-│   ├── raw/                         ← Đặt 5 file Kaggle vào đây
+│   ├── raw/                         ← 5 file data kanggle
 │   └── processed/                   ← Sinh ra khi chạy pipeline
 ├── notebooks/
 │   ├── 01_data_preparation.ipynb
