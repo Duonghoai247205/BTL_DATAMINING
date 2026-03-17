@@ -1,0 +1,94 @@
+{
+  "k": 5,
+  "silhouette": 0.33470725871359613,
+  "clusters": [
+    {
+      "cluster": 0,
+      "n": 990,
+      "yield_mean": 84080.0,
+      "rain_mean": 1761.0,
+      "temp_mean": 22.73,
+      "pest_mean": 301574.1,
+      "top_crops": [
+        "Cassava",
+        "Maize",
+        "Potatoes"
+      ],
+      "top_areas": [
+        "Brazil"
+      ]
+    },
+    {
+      "cluster": 1,
+      "n": 3968,
+      "yield_mean": 245212.0,
+      "rain_mean": 929.0,
+      "temp_mean": 19.28,
+      "pest_mean": 36429.06,
+      "top_crops": [
+        "Potatoes",
+        "Sweet potatoes",
+        "Cassava"
+      ],
+      "top_areas": [
+        "India",
+        "Japan",
+        "Mexico"
+      ]
+    },
+    {
+      "cluster": 2,
+      "n": 6955,
+      "yield_mean": 51119.0,
+      "rain_mean": 801.0,
+      "temp_mean": 12.39,
+      "pest_mean": 29292.04,
+      "top_crops": [
+        "Wheat",
+        "Maize",
+        "Soybeans"
+      ],
+      "top_areas": [
+        "Japan",
+        "Canada",
+        "Australia"
+      ]
+    },
+    {
+      "cluster": 3,
+      "n": 5845,
+      "yield_mean": 63573.0,
+      "rain_mean": 2206.0,
+      "temp_mean": 24.47,
+      "pest_mean": 29980.7,
+      "top_crops": [
+        "Maize",
+        "Rice, paddy",
+        "Cassava"
+      ],
+      "top_areas": [
+        "Brazil",
+        "Indonesia",
+        "Ecuador"
+      ]
+    },
+    {
+      "cluster": 4,
+      "n": 10484,
+      "yield_mean": 36524.0,
+      "rain_mean": 816.0,
+      "temp_mean": 24.03,
+      "pest_mean": 21236.95,
+      "top_crops": [
+        "Maize",
+        "Sorghum",
+        "Wheat"
+      ],
+      "top_areas": [
+        "India",
+        "Pakistan",
+        "Mexico"
+      ]
+    }
+  ]
+}
