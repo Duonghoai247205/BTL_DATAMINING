@@ -74,11 +74,11 @@ BTL/
 
 ```bash
 # 1. Tạo môi trường
-conda create -n cropenv python=3.10
-conda activate cropenv
+python -m venv dataminingbtl
+dataminingbtl\Scripts\activate
 
 # 2. Cài thư viện
-pip install -r requirements.txt
+pip install -r requirements.txtde
 
 # 3. Chạy toàn bộ pipeline tự động
 cd KAGGLE_CROP_YIELD
